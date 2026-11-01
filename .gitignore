@@ -1,0 +1,23 @@
+# Build outputs
+obj/
+Objects/
+ircserv
+ircserver
+*.o
+*.a
+*.out
+
+# Archives and PDFs
+*.tar.gz
+*.pdf
+
+# Editor / IDE metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
